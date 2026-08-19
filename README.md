@@ -1,55 +1,53 @@
 <div align="center">
-  <!-- ANIMATED WAVE HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=160&section=header&text=Hi%2C%20I'm%20Sujal%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <!-- ANIMATED DYNAMIC HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=180&section=header&text=Hi%2C%20I'm%20Sujal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-  <!-- DYNAMIC TYPING SVG -->
+  <!-- DYNAMIC TYPING BADGE -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Scalable+Applications;Data+Structures+%26+Algorithms;Turning+Ideas+Into+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;PostgreSQL+%7C+Prisma+%7C+Redis+%7C+Docker;Algorithmic+Problem+Solver" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- SHORT BIO -->
+  <!-- PUNCHY BIO -->
   <p align="center">
-    CS student passionate about building performant full-stack systems, clean web architectures, and solving algorithmic problems. <br/>
-    Constantly building, shipping, and exploring modern developer tools.
+    <b>CS Undergrad & Full-Stack Engineer</b> building performant web apps and scalable architectures. <br/>
+    Focused on clean code, modern backends, and responsive user experiences.
   </p>
 
   <br>
 
-  <!-- EXPANDED & CATEGORIZED TECH STACK -->
-  <h3>🛠️ Languages & Core</h3>
-  <p>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- ANIMATED TROPHIES -->
+  <img src="https://github-profile-trophy.vercel.app/?username=sujal-rana58&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+
+  <br><br>
+
+  <!-- MODERN TECH STACK ICONS -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,30&height=32&section=header&text=🛠️%20Tech%20Stack%20&fontSize=16&fontColor=ffffff" width="50%"/>
+  
+  <br><br>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,html,css" alt="Languages" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express" alt="Frontend and Backend" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis,docker,git,postman,vscode" alt="Database and Tools" />
+  </a>
+
+  <br><br>
+
+  <!-- DYNAMIC STATS & ACTIVITY GRAPH -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,30&height=32&section=header&text=📊%20GitHub%20Activity&fontSize=16&fontColor=ffffff" width="50%"/>
+
+  <br><br>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sujal-rana58&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-rana58&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
   </p>
 
-  <h3>💻 Frontend & Backend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=rest&logoColor=white" />
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-rana58&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="Activity Graph" />
   </p>
-
-  <h3>⚙️ Tools & Workflow</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  </p>
-
-  <br>
-
-  <!-- GLOWING STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-rana58&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <!-- FOOTER WAVE -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=90&section=footer" width="100%"/>

@@ -45,7 +45,7 @@
   <!-- RED CYBER/FIRE ANIMATION BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF0055,E11D48,991B1B&height=32&section=header&text=⚡%20Visual%20Pulse&fontSize=16&fontColor=ffffff" width="60%"/>
   <br/><br/>
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/94b84b84803737.5d69106093847.gif" width="95%" style="border-radius: 8px;" alt="Red Cyber Wave Animation" />
+  <img src="https://raw.githubusercontent.com/koolkishan/koolkishan/master/assets/images/header.gif" width="100%" alt="Red Neon Wave Animation" />
 
   <br/><br/>
 

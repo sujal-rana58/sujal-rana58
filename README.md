@@ -42,10 +42,22 @@
 
   <br/><br/><br/>
 
-  <!-- ANIMATED ACTIVITY GRAPH -->
+  <!-- DYNAMIC STATS & ACTIVITY PULSE -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,30&height=32&section=header&text=⚡%20Activity%20Pulse&fontSize=16&fontColor=ffffff" width="60%"/>
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-rana58&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Wave" />
+  
+  <!-- ANIMATED TROPHIES -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sujal-rana58&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="90%" alt="GitHub Trophies" />
+  </a>
+
+  <br/><br/>
+
+  <!-- COMPACT METRICS -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sujal-rana58&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-rana58&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  </p>
 
   <br/><br/>
 

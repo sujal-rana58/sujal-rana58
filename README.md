@@ -9,6 +9,11 @@
 
   <br><br>
 
+  <!-- PROFILE VIEWS BADGE -->
+  <img src="https://komarev.com/ghpvc/?username=sujal-rana58&label=Profile%20Views&color=e11d48&style=flat-square" alt="Profile Views" />
+
+  <br><br>
+
   <!-- PUNCHY BIO -->
   <p align="center">
     <b>CS Undergrad & Full-Stack Developer</b> focused on building high-performance web systems and intuitive user interfaces. <br/>
@@ -37,17 +42,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF0055,E11D48,991B1B&height=32&section=header&text=🗄️%20Databases,%20Caching%20&%20DevOps&fontSize=16&fontColor=ffffff" width="60%"/>
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis,docker,git,postman,vscode" alt="Database & Tools" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis,docker,git" alt="Databases & DevOps" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF0055,E11D48,991B1B&height=32&section=header&text=⚙️%20Developer%20Tools&fontSize=16&fontColor=ffffff" width="60%"/>
+  <br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman" alt="Developer Tools" />
   </a>
 
   <br/><br/><br/>
-
-  <!-- RED CYBER/FIRE ANIMATION BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF0055,E11D48,991B1B&height=32&section=header&text=⚡%20Visual%20Pulse&fontSize=16&fontColor=ffffff" width="60%"/>
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/koolkishan/koolkishan/master/assets/images/header.gif" width="100%" alt="Red Neon Wave Animation" />
-
-  <br/><br/>
 
   <!-- CONNECT WITH ME -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF0055,E11D48,991B1B&height=32&section=header&text=📫%20Connect%20With%20Me&fontSize=16&fontColor=ffffff" width="60%"/>
